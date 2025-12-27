@@ -9,6 +9,38 @@ https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
 #EXTINF:-1 tvg-id="AlexBerlin.de@SD",Alex Berlin (1080p)
 https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
+#EXTINF:0 tvg-name="Rai 1" tvg-language="it" tvg-country="it" tvg-id="1815" tvg-logo="https://tv7api2.tv.init7.net/media/logos/rai_uno.png" group-title="",Rai 1
+https://tv7api2.tv.init7.net/api/replay/?channel=a9571dde-2fee-4396-86df-b2c8789b7841
+#EXTINF:0 tvg-name="Rai 2" tvg-language="it" tvg-country="it" tvg-id="1820" tvg-logo="https://tv7api2.tv.init7.net/media/logos/rai2.png" group-title="",Rai 2
+https://tv7api2.tv.init7.net/api/replay/?channel=ced63503-4a9c-4e86-941d-4a6cb3e61cb4
+#EXTINF:0 tvg-name="Rai 3" tvg-language="it" tvg-country="it" tvg-id="1825" tvg-logo="https://tv7api2.tv.init7.net/media/logos/rai3.png" group-title="",Rai 3
+https://tv7api2.tv.init7.net/api/replay/?channel=a06e90d6-23ae-48c8-97ae-072d88725a7b
+#EXTINF:0 tvg-name="Rai 4" tvg-language="it" tvg-country="it" tvg-id="1830" tvg-logo="https://tv7api2.tv.init7.net/media/logos/rai4.png" group-title="",Rai 4
+https://tv7api2.tv.init7.net/api/replay/?channel=6d96a647-d881-4899-bfba-f50305e2c441
+#EXTINF:0 tvg-name="Rete4 HD" tvg-language="it" tvg-country="it" tvg-id="1835" tvg-logo="https://tv7api2.tv.init7.net/media/logos/rt4hd.png" group-title="",Rete4 HD
+https://tv7api2.tv.init7.net/api/replay/?channel=e2c1241d-ee98-4e93-bcce-dded21b30709
+#EXTINF:0 tvg-name="Canale5 HD" tvg-language="it" tvg-country="it" tvg-id="1840" tvg-logo="https://tv7api2.tv.init7.net/media/logos/canale-5-logo.png" group-title="",Canale5 HD
+https://tv7api2.tv.init7.net/api/replay/?channel=8b3e9f5a-ce7c-4dd0-90bf-2f9e39066e0d
+#EXTINF:0 tvg-name="Italia 1 HD" tvg-language="it" tvg-country="it" tvg-id="1845" tvg-logo="https://tv7api2.tv.init7.net/media/logos/italia_1.png" group-title="",Italia 1 HD
+https://tv7api2.tv.init7.net/api/replay/?channel=0f93b1e8-72bc-48f7-9ad9-ca09b3f6385e
+#EXTINF:0 tvg-name="LA7" tvg-language="it" tvg-country="it" tvg-id="1850" tvg-logo="https://tv7api2.tv.init7.net/media/logos/la7.png" group-title="",LA7
+https://tv7api2.tv.init7.net/api/replay/?channel=aaf59d20-fceb-44fd-ad60-7a2b9163d652
+#EXTINF:0 tvg-name="IRIS" tvg-language="it" tvg-country="it" tvg-id="1860" tvg-logo="https://tv7api2.tv.init7.net/media/logos/iris-italia.png" group-title="",IRIS
+https://tv7api2.tv.init7.net/api/replay/?channel=b0ebedbd-a295-44b3-938f-0048e633d73d
+#EXTINF:0 tvg-name="Boing" tvg-language="it" tvg-country="it" tvg-id="1865" tvg-logo="https://tv7api2.tv.init7.net/media/logos/boing.png" group-title="",Boing
+https://tv7api2.tv.init7.net/api/replay/?channel=2851f1ec-c76f-45e9-8e68-d1d41aecb34d
+#EXTINF:0 tvg-name="Rai Sport+ HD" tvg-language="it" tvg-country="it" tvg-id="1870" tvg-logo="https://tv7api2.tv.init7.net/media/logos/rai_sport_hd.png" group-title="",Rai Sport+ HD
+https://tv7api2.tv.init7.net/api/replay/?channel=0409696a-fcf9-4ca2-8c30-e6ca9ff199de
+#EXTINF:0 tvg-name="Rai Storia" tvg-language="it" tvg-country="it" tvg-id="1885" tvg-logo="https://tv7api2.tv.init7.net/media/logos/rai_storia.png" group-title="",Rai Storia
+https://tv7api2.tv.init7.net/api/replay/?channel=dfe2c00f-ebda-47cf-a7a0-6f13e0bac2fe
+#EXTINF:0 tvg-name="Rai News" tvg-language="it" tvg-country="it" tvg-id="1890" tvg-logo="https://tv7api2.tv.init7.net/media/logos/rai_news.png" group-title="",Rai News
+https://tv7api2.tv.init7.net/api/replay/?channel=ef8af656-7828-4781-b62f-6d725eb5e70a
+#EXTINF:0 tvg-name="Rai Premium" tvg-language="it" tvg-country="it" tvg-id="1895" tvg-logo="https://tv7api2.tv.init7.net/media/logos/rai_premium.png" group-title="",Rai Premium
+https://tv7api2.tv.init7.net/api/replay/?channel=eb7ce0b8-7b77-43f9-ab8c-a0d3ba949c20
+#EXTINF:0 tvg-name="Rai Yoyo" tvg-language="it" tvg-country="it" tvg-id="1900" tvg-logo="https://tv7api2.tv.init7.net/media/logos/rai_yoyo.png" group-title="",Rai Yoyo
+https://tv7api2.tv.init7.net/api/replay/?channel=1589e77b-2c34-4c73-a6ea-979c67fa45c9
+#EXTINF:0 tvg-name="Rai Movie" tvg-language="it" tvg-country="it" tvg-id="1905" tvg-logo="https://tv7api2.tv.init7.net/media/logos/rai_movie.png" group-title="",Rai Movie
+https://tv7api2.tv.init7.net/api/replay/?channel=6eed8040-0668-4a64-a451-aa2fc6952949
 #EXTINF:-1 tvg-id="AllgauTV.de@SD",Allgäu TV (1080p)
 https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AltenburgTV.de@SD",Altenburg TV (1080p)
