@@ -1,11 +1,5 @@
 #EXTINF:-1 tvg-name="TGCOM24" tvg-id=""tvg-logo="" group-title="Estero", TGCOM24
 https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
-#EXTINF:-1 tvg-id="7RadioVisione.it@HD",7 RadioVisione (720p)
-https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="7STORIA.it@HD",7 STORIA (720p)
-https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="7YOUME.it@HD",7 YOU & ME (720p)
-https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale5.it@HD",Canale 5 HD
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:-1 tvg-id="Rai3.it@HD",Rai 3 HD
@@ -36,7 +30,21 @@ https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 #EXTINF:-1 tvg-id="TV2000.it@SD",TV 2000 (720p)
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-#EXTINF:-1 tvg-id="TGNorba24.it@SD",TG Norba 24 (404p)
-https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="TGNorba24.it@SD",TG Norba 24 (404p)
-https://live.uvotv.com/10010/live/hls/cine34/streams/sessions/042b616139e74b3fa1082c3945f17b18/media/playlist-orig.m3u8/fstl=exp=1767281488~acl=%2F10010%2Flive%2Fhls%2Fcine34%2F%2A~hmac=b8a299384b380b5574e1709cb4ed0d9310b25bd1f7d8962be0d9888c423b9dd2/1.m3u8
+#EXTINF:-1 tvg-id="LA7.it@HD",LA7 HD
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+#EXTINF:-1 tvg-id="DMSat.rs@SD",DM Sat
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd
+#EXTINF:-1 tvg-id="TV2.dz@SD",TV2
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
+#EXTINF:-1 tvg-id="RTK1.xk@SD",RTK 1
+https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
+#EXTINF:-1 tvg-id="ATV2.at@HD",ATV2 HD
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
+#EXTINF:-1 tvg-id="Rai3.it@HD",Rai 3 HD
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+#EXTINF:-1 tvg-id="Rai3.it@HD",Rai 3 HD
+https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
+#EXTINF:-1 tvg-id="EuroD.tr@SD",Euro D
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
+#EXTINF:-1 tvg-id="SenatoTV.it@SD",Senato TV (1080p)
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
