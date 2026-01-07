@@ -1,0 +1,195 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="1. |FR|🇫🇷 INFORMATION",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS
+https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="7. |TR|🇹🇷 HABER",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TGCOM24" tvg-id=""tvg-logo="" group-title="Estero", TGCOM24
+https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
+#EXTINF:-1 tvg-id="Canale5.it@HD",Canale 5 HD
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+#EXTINF:-1 tvg-id="Rai3.it@HD",Rai 3 HD
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+#EXTINF:-1 tvg-id="Rai2.it@HD",Rai 2 HD
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 group-title="Estero",RAI News 24 Europa HD
+https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
+#EXTINF:-1 group-title="Estero",Rai Storia Europa
+https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
+#EXTINF:-1 group-title="Estero",Rete Italia
+https://ilglobotv-live.akamaized.net/channels/ReteItaliaTV/Live.m3u8
+#EXTINF:-1 group-title="Estero",Mediaset Italia
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+#EXTINF:-1 tvg-id="3sat.de@HD",3sat HD
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+#EXTINF:-1 tvg-id="RaiSport.it@HD",Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 tvg-id="Rete4.it@HD",Rete 4 HD
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
+#EXTINF:-1 tvg-id="TVRInternational.ro@SD",TVR International
+https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
+#EXTINF:-1 tvg-id="RaiGulp.it@HD",Rai Gulp HD
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+#EXTINF:-1 tvg-id="Rai1.it@HD",Rai 1 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+#EXTINF:-1 tvg-id="Italia1.it@HD",Italia 1 HD
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+#EXTINF:-1 tvg-id="TV2000.it@SD",TV 2000 (720p)
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="LA7.it@HD",LA7 HD
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+#EXTINF:-1 tvg-id="DMSat.rs@SD",DM Sat
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-dash/dmsat.mpd
+#EXTINF:-1 tvg-id="TV2.dz@SD",TV2
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
+#EXTINF:-1 tvg-id="RTK1.xk@SD",RTK 1
+https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-dash/rtk1.mpd
+#EXTINF:-1 tvg-id="ATV2.at@HD",ATV2 HD
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
+#EXTINF:-1 tvg-id="Rai3.it@HD",Rai 3 HD
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd
+#EXTINF:-1 tvg-id="Rai3.it@HD",Rai 3 HD
+https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
+#EXTINF:-1 tvg-id="EuroD.tr@SD",Euro D
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
+#EXTINF:-1 tvg-id="SenatoTV.it@SD",Senato TV (1080p)
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="6ter.fr@SD",6ter
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
+#EXTINF:-1 tvg-id="Animaux.fr@SD",Animaux
+https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd
+#EXTINF:-1 tvg-id="BFMLyon.fr@SD",BFM Lyon (576p)
+https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr@SD",BFM TV (576p)
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="BFM2.fr@HD",BFM2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+#EXTINF:-1 tvg-id="BFMBusiness.fr@SD",BFM Business (576p)
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="France2.fr@HD",France 2 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+#EXTINF:-1 tvg-id="France3.fr@HD",France 3 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+#EXTINF:-1 tvg-id="France4.fr@HD",France 4 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
+#EXTINF:-1 tvg-id="France5.fr@HD",France 5 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
+#EXTINF:-1 tvg-id="Franceinfo.fr@SD",Franceinfo
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8
+#EXTINF:-1 tvg-id="LCI.fr@HD",LCI HD
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
+#EXTINF:-1 tvg-id="M6.fr@SD",M6 SD
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
+#EXTINF:-1 tvg-id="RMCDecouverte.fr@SD",RMC Decouverte
+https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
+#EXTINF:-1 tvg-id="TF1.fr@HD",TF1 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+#EXTINF:-1 tvg-id="TFX.fr@SD",TFX
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-dash/nt1.mpd
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD",TV5Monde Asia (720p)
+https://liveh12.vtvprime.vn/hls/TV5/03.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD",W9
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-dash/w9.mpd
+#EXTINF:-1 tvg-id="KTO.fr@SD",KTO
+https://viamotionhsi.netplus.ch/live/eds/kto/browser-dash/kto.mpd
+#EXTINF:-1 tvg-id="SRFinfo.ch@HD",SRF info HD
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-dash/srfinfo.mpd
+#EXTINF:-1 tvg-id="3sat.de@HD",3sat HD
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+#EXTINF:-1 tvg-id="DW.de@Russian",DW Russian (1080p)
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD",BBC Two HD
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD",BBC Three/CBBC
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
+#EXTINF:-1 tvg-id="Channel4.uk@UKHD",Channel 4 UK HD
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
+#EXTINF:-1 tvg-id="Channel5.uk@HD",Channel 5 HD
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
+#EXTINF:-1 tvg-id="ITV2.uk@SD",ITV2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+#EXTINF:-1 tvg-id="ITV3.uk@SD",ITV3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS FR
+https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",FRANCE LA 1ÈRE (PLAYOUT)
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/fr1.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CKmJVCGT/launebe.png",LA UNE
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxqS6F0/tv5voyage.png",TV5MONDE+ VOYAGE
+https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxqS6F0/tv5voyage.png",TV5MONDE+ VOYAGE
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11074
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRzQ2yBw/Tv5m-cf.png",TV5MONDE+ CHEFS
+https://d17g2p9a7he1mu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4dzadk8a25ad/tv5ch.m3u8
+#EXTINF:-1 tvg-id="KiKA.de@HD",KiKA HD
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="KiKA.de@HD",KiKA HD
+https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
+#EXTINF:-1 tvg-id="ZDF.de@HD",ZDF HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+#EXTINF:-1 tvg-id="BloombergTV.us@Europe",Bloomberg TV Europe
+https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
+#EXTINF:-1 tvg-id="CNBCEurope.uk@HD",CNBC Europe HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+#EXTINF:-1 tvg-id="ClassTVModa.it@SD",Class TV Moda
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/classtvmoda.m3u8
+#EXTINF:-1 tvg-id="LA7.it@HD",LA7 HD
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+#EXTINF:-1 tvg-id="LA7.it@HD",LA7 HD
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it@SD",UniNettuno University TV (720p)
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD",TV5Monde France Belgium Switzerland Monaco HD
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD",TV5Monde Info (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr@SD",Gulli (720p)
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr@SD",Franceinfo
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr@SD",Franceinfo
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
+#EXTINF:-1 tvg-id="Mezzo.fr@SD",Mezzo (1080p)
+https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
+#EXTINF:-1 tvg-id="MTV.fr@SD",MTV (1080p)
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
+#EXTINF:-1 tvg-id="MyGospelTV.fr@SD", Hotbird 4K 
+https://www.youtube.com/watch?v=NJOfeBoEbjA&t=144s222
+#EXTINF:-1 tvg-id="MyGospelTV.fr@SD", Hotbird 8K
+https://www.youtube.com/watch?v=NJOfeBoEbjA&t=144s222
+#EXTINF:-1 tvg-id="MyGospelTV.fr@SD", RAI 4 HD
+https://www.youtube.com/watch?v=NJOfeBoEbjA&t=144s222
+#EXTINF:-1 tvg-id="MyGospelTV.fr@SD", RAI 5 HD
+https://www.youtube.com/watch?v=NJOfeBoEbjA&t=144s222
+#EXTINF:-1 tvg-id="MyGospelTV.fr@SD", RAI 6 HD
+https://www.youtube.com/watch?v=NJOfeBoEbjA&t=144s222
+#EXTINF:-1 tvg-id="MyGospelTV.fr@SD", RAI 7 HD
+https://www.youtube.com/watch?v=NJOfeBoEbjA&t=144s222
+#EXTINF:-1 tvg-id="MyGospelTV.fr@SD", RAI 9 HD
+https://www.youtube.com/watch?v=NJOfeBoEbjA&t=144s222
+#EXTINF:-1, France 3 HD
+http://example.com/stream/hayali1.m3u8
+#EXTINF:-1, RAI YOYO HD
+http://example.com/stream/hayali2.m3u8
+#EXTINF:-1, NEED TV
+http://example.com/stream/hayali3.m3u8
+#EXTINF:-1,Nae TV
+http://example.com/stream/hayali1.m3u8
+#EXTINF:-1, RAI 4K 
+http://example.com/stream/hayali2.m3u8
+#EXTINF:-1, RAI 16K HD geo
+http://example.com/stream/hayali3.m3u8
+#EXTINF:-1, NAJ TV HD
+http://example.com/stream/hayali1.m3u8
+#EXTINF:-1, BOİNG TV  (GEO BLOCKED)
+http://example.com/stream/hayali2.m3u8
+#EXTINF:-1, RAI 2 HD 
+http://example.com/stream/hayali3.m3u8
+#EXTINF:-1, Bully TV 1
+http://example.com/stream/bullytv1.m3u8
+#EXTINF:-1, Bully TV 2
+http://example.com/stream/bullytv2.m3u8
+#EXTINF:-1, Bully TV 3
+http://example.com/stream/bullytv3.m3u8
