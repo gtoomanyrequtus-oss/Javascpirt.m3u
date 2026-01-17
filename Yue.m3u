@@ -79,3 +79,11 @@ https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD",TV5Monde Info (1080p) [Geo-blocked
 https://www.youtube.com/watch?v=quvoPiYbvB4
+#EXTINF:-1 tvg-id="LCI.fr@HD",LCI HD
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-dash/lci.mpd
+#EXTINF:-1 tvg-id="Rai2.it@HD",Rai 2 HD
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 tvg-id="Rai3.it@HD",Rai 3 (720p) [Not 24/7]
+https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+#EXTINF:-1 tvg-id="Rai3.it@HD",Rai 3 (720p) [Not 24/7]
+https://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
