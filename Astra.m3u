@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3sat.de@HD",3sat HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1 tvg-id="BRFernsehen.de@Sud",BR Fernsehen Sud (1080p)
+https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.de@HD",Comedy Central HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
