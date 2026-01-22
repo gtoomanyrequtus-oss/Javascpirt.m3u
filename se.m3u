@@ -1,9 +1,10 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:-1 tvg-id="7RadioVisione.it@HD",7 RadioVisione (720p)
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="7STORIA.it@HD",7 STORIA (720p)
 https://stream10.xdevel.com/video2s976543-2104/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SenatoTV.it@SD",Senato TV (1080p)
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-id="7YOUME.it@HD",7 YOU & ME (720p)
 https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="12TVParma.it@SD",12 TV Parma (540p) [Not 24/7]
