@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="102" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai2.png" group-title="Rai",Rai 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="102" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai2.png" group-title="Rai",Rai 2
+https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="102" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai2.png" group-title="Rai",Rai 2
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="102" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai2.png" group-title="Rai",Rai 2
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="102" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai2.png" group-title="Rai",Rai 2
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="102" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai2.png" group-title="Rai",Rai 2
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="102" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai2.png" group-title="Rai",Rai 2
+https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="102" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai2.png" group-title="Rai",Rai 2
+https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="102" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai2.png" group-title="Rai",Rai 2
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="102" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rai2.png" group-title="Rai",Rai 2
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaUSA/Live.m3u8
+#EXTINF:-1 tvg-name="TGCOM24" tvg-id=""tvg-logo="" group-title="Estero", TGCOM24
+https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
