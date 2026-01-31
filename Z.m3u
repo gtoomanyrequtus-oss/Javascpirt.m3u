@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="3sat.de@HD",3sat HD (1080p)
+#EXTINF:-1 tvg-id="3sat.de@HD",3sat HD (1080p) 🔑
 https://viamotionjejew.m3u
-#EXTINF:-1 tvg-id="BRFernsehen.de@Sud",BR Fernsehen Sud (1080p)
+#EXTINF:-1 tvg-id="BRFernsehen.de@Sud",BR Fernsehen Sud (1080p)🔑
 https://viamotionhsi.netpejjs.m3u
-#EXTINF:-1 tvg-id="ComedyCentral.de@HD",Comedy Central HD (1080p)
+#EXTINF:-1 tvg-id="ComedyCentral.de@HD",Comedy Central HD (1080p)🔑
 https://viamotionhsi.netplus.ch/li16kdemo.m3u
-#EXTINF:-1 tvg-id="DeluxeMusic.de@SD",Deluxe Music
+#EXTINF:-1 tvg-id="DeluxeMusic.de@SD",Deluxe Music🔑
 https://viamotionhsi.netplus.ch/live/eds12/deluxemusic/browser-HLS8/deluxemusic.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.de@SD",Disney Channel (576p)
+#EXTINF:-1 tvg-id="DisneyChannel.de@SD",Disney Channel (576p)🔑
 https://viamotionhsi.netplus.ch/live/eds/di22222222222sneychannelde/browser-HLS8/disneychannelde.m3u8
-#EXTINF:-1 tvg-id="AlMaghribia.ma@SD",Al Maghribia
+#EXTINF:-1 tvg-id="AlMaghribia.ma@SD",Al Maghribia🔑
 https://viamotionhsi.netplus.ch/live/eds/alma222222222222ghribia/browser-dash/almaghribia.mpd
-#EXTINF:-1 tvg-id="AlMaghribia.ma@SD",Al Maghribia
+#EXTINF:-1 tvg-id="AlMaghribia.ma@SD",Al Maghribia🔑
 https://viamotionhsi.netplus.ch/live/eds/almag2hribia/browser-HLS8/almaghribia.m3u8
-#EXTINF:-1 tvg-id="AlMaarefTV.qa@SD",Al Maaref (350p)
+#EXTINF:-1 tvg-id="AlMaarefTV.qa@SD",Al Maaref (350p)🔑
 https://672a3a5c8e335.streamlock.net/AlMaaref/s2mil:almaareflive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ARDalpha.de@HD",ARD-alpha HD
+#EXTINF:-1 tvg-id="ARDalpha.de@HD",ARD-alpha HD🔑
 https://viamotionhsi.netplus.ch/live/eds/bralph222a/browser-HLS8/bralpha.m3u8
-#EXTINF:-1 tvg-id="KiKA.de@HD",KiKA HD
+#EXTINF:-1 tvg-id="KiKA.de@HD",KiKA HD🔑
 https://viamotionhsi.netplus.ch/live/eds/kika12jı1j2hh1jh12hd/browser-HLS8/kikahd.m3u8
-#EXTINF:-1 tvg-id="MDRFernsehen.de@Thuringen",MDR Fernsehen Thuringen
+#EXTINF:-1 tvg-id="MDRFernsehen.de@Thuringen",MDR Fernsehen Thuringen🔑
 https://viamotionhsi.netplus.ch/live/eds/md2-HLS8/mdr.m3u8
-#EXTINF:-1 tvg-id="ntv.de@SD",n-tv (1080p)
+#EXTINF:-1 tvg-id="ntv.de@SD",n-tv (1080p)🔑
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser1121212-HLS8/ntv.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg",NDR Fernsehen
+#EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg",NDR Fernsehen🔑
 https://viamotionhsi.netplus.ch/live/eds/ndr/browser-122121HLS8/ndr.m3u8
-#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@HD",Nick/Comedy Central +1 HD (1080p)
+#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@HD",Nick/Comedy Central +1 HD (1080p)🔑
 https://viamotionhsi.netplus.ch/live/eds/comedycentralni121212er-HLS8/comedycentralnick.m3u8
 #EXTINF:-1 tvg-id="Nitro.de@HD",Nitro HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/rtlnit1212wser-HLS8/rtlnitro.m3u8
@@ -51,8 +51,6 @@ https://viamotionhsi.netplus.ch/live/eds/vox/browbok8
 https://viamotionhsi.netplus.ch/live/edswewbrowser-HLS8/wdrhd.m3u8
 #EXTINF:-1 tvg-id="WELT.de@SD",WELT (1080p)
 https://viamotionhsi.netplus.ch/liv12122228/n24.m3u8
-#EXTINF:-1 tvg-id="ZDF.de@HD",ZDF HD (720p)
-https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
 #EXTINF:-1 tvg-id="ZDFinfo.de@HD",ZDFinfo HD (720p)
 https://viamotionhsi.netplus.ch/qwnjqwjwqnjknqwHLS8/zdfinfohd.m3u8
 #EXTINF:-1 tvg-id="ZDFneo.de@HD",ZDFneo HD (720p)
