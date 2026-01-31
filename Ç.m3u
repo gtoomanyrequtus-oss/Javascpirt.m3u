@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rai2.it@HD",Rai 2 HD
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="1. |FR|🇫🇷 INFORMATION ℹ️📰",BFM TV
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-name="TGCOM24" tvg-id=""tvg-logo="" group-title="Estero", TGCOM24
+https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
+#EXTINF:-1 group-title="Estero",RAI News 24 Europa HD
+https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr@SD",TRT Turk
+https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
+#EXTINF:-1 tvg-id="CNBCEurope.uk@HD",CNBC Europe HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
