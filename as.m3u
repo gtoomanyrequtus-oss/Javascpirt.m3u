@@ -483,3 +483,7 @@ http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD",NHK World-Japan HD
 https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
+#EXTINF:-1 tvg-name="Rai 4K" channel-id="rai 4k" tvg-id="Rai4K.it" tvg-logo="" channel-number="" group-title="Rai", Rai 4K (hls)
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-name="Rai 4K" group-title="Rai",Rai 4K HDR (dash)
+https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd
