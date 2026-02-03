@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CNBCEurope.uk@HD",CNBC Europe
+#EXTINF:-1 tvg-id="CNBCEurope.uk@HD",CNBC Europe UHD (4320p)
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Europe",Bloomberg TV 
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
