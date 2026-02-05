@@ -1,117 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/arirang.png" group-title="LOKALFTA",ARIRANG
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8#EXTM3U
 #EXTINF:-1 tvg-id="CNBCEurope.uk@HD",CNBC Europe UHD (4320p)
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Europe",Bloomberg TV 
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe",BBC World News
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD",Euronews English HD
-https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English",Al Jazeera English
 https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
 #EXTINF:-1 tvg-id="France24.fr@French",France 24
 https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn@SD",CGTN 
-https://english-livebkali.cgtn.com/live/encgtn.m3u8
-#EXTINF:-1 tvg-id="DW.de@English",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French",France 24 Françias
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr@SD",BFM TV
 https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it@HD",Rai News 24 
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
-#EXTINF:-1 tvg-id="CStar.fr@SD",Al jazeera arabic (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="Alarabiya.ae@SD",Al Arabiya (1080p)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCArabic.uk@SD",BBC Arabic (540p)
-https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae@SD",Sky News Arabia (1080p) [Not 24/7]
-https://stream.skynewsarabia.com/ott/ott.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiTV.ae@SD",Abu Dhabi TV (1080p)
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
 #EXTINF:-1 tvg-id="arte.fr@HD",arte HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
 #EXTINF:-1 tvg-id="Rai1.it@SD",RAI 1 HD
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 #EXTINF:-1 tvg-id="Rai2.it@HD",RAI 2 HD
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
 #EXTINF:-1 tvg-id="Rai3.it@HD",RAI 3 HD
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 #EXTINF:-1 tvg-id="RTPInternacional.pt@SD",RTP Internacional (1080p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr@SD",Arirang TV (720p) (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",TV RUS (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",THT COMEDY (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="FREEDOM.ua@SD",UA TV
-https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",tbn russia (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",8 TV (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",POLONIA 1 (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",TELE 5 (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="TVPPolonia.pl@SD",TVP Polonia
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",4 FUN DANCE (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",4 FUN GOLD HITS (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",4FUN TV (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD", Stars TV (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",TELEPACE HD (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="RudawTV.iq@SD",Rudaw TV (1080p)
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD", Sımay azadi (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",TELEPACE HD (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",TELEPACE HD (yalnızca premium üyelerine özel)
-https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
-#EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD",Al Mayadeen (yalnızca premium üyelerine özel)
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma@SD",2M Monde (yalnızca premium üyelerine özel)
-#EXTVLCOPT:http-referrer=http://www.radio2m.ma/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma@SD",TUNISIE NATİONLE (yalnızca premium üyelerine özel)
-#EXTVLCOPT:http-referrer=http://www.radio2m.ma/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@SD",Al Jazeera Documentary (1080p) [Geo-blocked]
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-id="DubaiOne.ae@SD",Dubai TV HD  (yalnızca premium üyelerine özel)
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="BahrainInternational.bh@SD",Bahrain International (720p) [Not 24/7]
-https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-#EXTINF:-1 tvg-id="DubaiOne.ae@SD",KTV 1 HD (yalnızca premium üyelerine özel)
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="DubaiOne.ae@SD",Qatar tv HD  (yalnızca premium üyelerine özel)
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="DubaiOne.ae@SD",TV coran  (yalnızca premium üyelerine özel)
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="DubaiOne.ae@SD",TV Tamazight  (yalnızca premium üyelerine özel)
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="DubaiOne.ae@SD",SKY news ınt (yalnızca premium üyelerine özel)
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="DubaiOne.ae@SD",Qutar tv HD  (yalnızca premium üyelerine özel)
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="DubaiOne.ae@SD",Qutar tv HD  (yalnızca premium üyelerine özel)
-https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+#EXTINF:-1 tvg-id="TVRInternational.ro@SD",TVR International
+https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
 #EXTINF:-1 tvg-id="ZDF.de@HD",ZDF HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 #EXTINF:-1 tvg-id="ZDFneo.de@HD",ZDFneo HD (720p)
@@ -122,48 +38,131 @@ https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 #EXTINF:-1 tvg-id="RTLZwei.de@HD",RTL Zwei HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
-#EXTINF:-1 tvg-id="SAT1Gold.de@SD",SAT.1 Gold (576p)
-https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.de@SD",Disney Channel (576p)
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.de@HD",Comedy Central HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
 #EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD",TV5Monde France Belgium Switzerland Monaco HD
 https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
-
-
-NOT:BURDAKİ KANALLARI İZLEMEK İÇİN ABONELİK SATIN ALIMANIZ GEREKİR
-#EXTINF:-1 tvg-id="DE1" tvg-name="Berlin News HD" tvg-country="DE" tvg-language="German" group-title="News",Berlin News HD
-http://stream.example.com/de/berlinnews/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DE2" tvg-name="Munich Sports" tvg-country="DE" tvg-language="German" group-title="Sports",Munich Sports
-http://stream.example.com/de/munichsports/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DE3" tvg-name="Hamburg Kultur" tvg-country="DE" tvg-language="German" group-title="Culture",Hamburg Kultur
-http://stream.example.com/de/hamburgkultur/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DE4" tvg-name="Frankfurt Movies" tvg-country="DE" tvg-language="German" group-title="Movies",Frankfurt Movies
-http://stream.example.com/de/frankfurtmovies/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DE5" tvg-name="Cologne Music" tvg-country="DE" tvg-language="German" group-title="Music",Cologne Music
-http://stream.example.com/de/colognemusic/playlist.m3u8
-#EXTM3U
-
-#EXTINF:-1 tvg-id="RAI1" tvg-name="RAI Uno HD" tvg-country="IT" tvg-language="Italian" group-title="General",RAI Uno HD
-http://stream.example.com/it/raiuno/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RAI2" tvg-name="RAI Due HD" tvg-country="IT" tvg-language="Italian" group-title="Entertainment",RAI Due HD
-http://stream.example.com/it/raidue/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RAI3" tvg-name="RAI Tre HD" tvg-country="IT" tvg-language="Italian" group-title="News",RAI Tre HD
-http://stream.example.com/it/raitre/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RAISPORT" tvg-name="RAI Sport HD" tvg-country="IT" tvg-language="Italian" group-title="Sports",RAI Sport HD
-http://stream.example.com/it/raisport/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RAIMOVIE" tvg-name="RAI Movie HD" tvg-country="IT" tvg-language="Italian" group-title="Movies",RAI Movie HD
-http://stream.example.com/it/raimovie/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RAIMUSIC" tvg-name="RAI Music HD" tvg-country="IT" tvg-language="Italian" group-title="Music",RAI Music HD
-http://stream.example.com/it/raimusic/playlist.m3u8
-
+#EXTINF:-1 tvg-id="RaiGulp.it@HD",Rai Gulp HD
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it@HD",Rai Scuola HD
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+#EXTINF:-1 tvg-id="RaiSport.it@HD",Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+#EXTINF:-1 tvg-id="RaiStoria.it@HD",Rai Storia HD
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
+#EXTINF:-1 tvg-id="Rete4.it@HD",Rete 4 HD
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
+#EXTINF:-1 tvg-id="Rete4.it@HD",SRF 1 HD
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
+#EXTINF:-1 tvg-id="Rete4.it@HD",NOVE
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk@UKHD",Channel 4 UK HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD",BBC Three/CBBC (1080p)
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD",BBC Two HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+#EXTINF:-1 tvg-id="Canale5.it@HD",Canale 5 HD
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
+#EXTINF:-1 tvg-id="Italia1.it@HD",Italia 1 HD
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+#EXTINF:-1 tvg-id="La7Cinema.it@HD",La7 Cinema (720p)
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+#EXTINF:-1 tvg-id="LA7.it@HD",LA7 HD
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+#EXTINF:-1 tvg-id="ITV2.uk@SD",ITV2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+#EXTINF:-1 tvg-id="ITV3.uk@SD",ITV3 (1080p)
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk@SD",ITV4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
+#EXTINF:-1 tvg-id="More4.uk@HD",More4 HD
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
+#EXTINF:-1 tvg-id="DMSat.rs@SD",DM Sat
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
+#EXTINF:-1 tvg-id="TRTTurk.tr@SD",TRT Turk
+https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
+#EXTINF:-1 tvg-id="24HorasInternacional.es@SD",24 Horas Internacional
+https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD",NHK World-Japan HD
+https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
+#EXTINF:-1 tvg-id="6ter.fr@SD",6ter (1080p) [Geo-blocked]
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+#EXTINF:-1 tvg-id="AB1.fr@SD",AB1
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
+#EXTINF:-1 tvg-id="Animaux.fr@SD",Animaux
+https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
+#EXTINF:-1 tvg-id="arte.fr@HD",arte HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+#EXTINF:-1 tvg-id="BFMBusiness.fr@SD",BFM Business
+https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr@SD",BFM TV
+https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
+#EXTINF:-1 tvg-id="CStar.fr@SD",C Star SD(720p)
+https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
+#EXTINF:-1 tvg-id="CanalJ.fr@HD",Canal J HD
+https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
+#EXTINF:-1 tvg-id="CanalPlus.fr@SD",Canal+ (1080p)
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+#EXTINF:-1 tvg-id="CNews.fr@SD",ÖFKE TV (1080p)
+https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
+#EXTINF:-1 tvg-id="EuronewsFrench.fr@HD",Euronews French HD
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+#EXTINF:-1 tvg-id="France2.fr@HD",France 2 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+#EXTINF:-1 tvg-id="France3.fr@HD",France 3 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+#EXTINF:-1 tvg-id="France4.fr@HD",France 4 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+#EXTINF:-1 tvg-id="France5.fr@HD",France 5 UHD 4K
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
+#EXTINF:-1 tvg-id="France5.fr@HD",France 5 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+#EXTINF:-1 tvg-id="Franceinfo.fr@SD",Franceinfo
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr@SD",Gulli (720p)
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+#EXTINF:-1 tvg-id="KTO.fr@SD",KTO
+https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+#EXTINF:-1 tvg-id="LEquipe.fr@SD",L'Equipe (1080p)
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
+#EXTINF:-1 tvg-id="LCI.fr@HD",LCI HD
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
+#EXTINF:-1 tvg-id="LCP.fr@SD",LCP
+https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
+#EXTINF:-1 tvg-id="M6.fr@SD",M6 [Geo-blocked]
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 tvg-id="Mezzo.fr@SD",Mezzo (1080p)
+https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
+#EXTINF:-1 tvg-id="MTV.fr@SD",MTV (1080p)
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
+#EXTINF:-1 tvg-id="NOVO19.fr@HD",NOVO19 (720p)
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+#EXTINF:-1 tvg-id="",Paramount Channel (1080p)
+https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
+#EXTINF:-1 tvg-id="PlanetePlus.fr@SD",Planete+ (1080p)
+https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
+#EXTINF:-1 tvg-id="RMCDecouverte.fr@SD",RMC Decouverte (1080p)
+https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
+#EXTINF:-1 tvg-id="RMCStory.fr@SD",RMC Story (1080p)
+https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
+#EXTINF:-1 tvg-id="RMCLife.fr@SD",RMC Life
+https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
+#EXTINF:-1 tvg-id="T18.fr@HD",T18
+https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
+#EXTINF:-1 tvg-id="TF1.fr@HD",TF1 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD",TF1 Series Films (1080p)
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+#EXTINF:-1 tvg-id="TFX.fr@SD",TFX (1080p)
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@HD",TMC HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1 tvg-id="Trek.fr@HD",Trek HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD",TV5Monde France Belgium Switzerland Monaco HD
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+#EXTINF:-1 tvg-id="W9.fr@SD",W9 [Geo-blocked]
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
