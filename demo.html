@@ -1,0 +1,187 @@
+<style>
+.scan {
+  color: lime;
+  font-family: monospace;
+  animation: blink 1s infinite;
+}
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0.3; }
+  100% { opacity: 1; }
+}
+</style>
+
+<div class="scan">Scanning...</div>
+<div style="width:300px; background:#333;">
+  <div id="bar" style="width:0; height:20px; background:lime;"></div>
+</div>
+
+<script>
+let i = 0;
+let bar = document.getElementById("bar");
+let interval = setInterval(() => {
+  if(i >= 300) clearInterval(interval);
+  else { i += 5; bar.style.width = i + "px"; }
+}, 100);
+</script>
+<div id="status">Scanning frequencies...</div>
+<ul id="channels"></ul>
+
+<script>
+const frekanslar = ["12345 H 30000", "11500 V 27500", "11012 H 22000"];
+let i = 0;
+let list = document.getElementById("channels");
+
+let interval = setInterval(() => {
+  if(i < frekanslar.length) {
+    list.innerHTML += `<li>${frekanslar[i]}</li>`;
+    i++;
+  } else {
+    document.getElementById("status").innerText = "Scan Complete!";
+    clearInterval(interval);
+  }
+}, 1500);
+</script>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sanal Uydu Demo</title>
+  <script src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+  <style>
+    body { background:#111; color:#0f0; font-family:monospace; }
+    .kanal { cursor:pointer; margin:5px; }
+  </style>
+</head>
+<body>
+  <h1>📡 Sanal Uydu Kanal Listesi</h1>
+  <div id="channels"></div>
+  <div id="player"></div>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sanal Uydu Demo</title>
+  <script src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+  <style>
+    body { background:#111; color:#0f0; font-family:monospace; }
+    .kanal { cursor:pointer; margin:5px; padding:5px; background:#222; }
+    .kanal:hover { background:#333; }
+    .freq { margin:5px; }
+  </style>
+</head>
+<body>
+  <h1>📡 Sanal Uydu Tarama</h1>
+
+  <!-- Frekanslar -->
+  <div id="freqs">
+    <div class="freq">10788 H 29900</div>
+    <div class="freq">10822 H 29900</div>
+    <div class="freq">11002 V 30000</div>
+    <div class="freq">11013 H 29900</div>
+  </div>
+
+  <h2>Bulunan Kanallar</h2>
+  <div id="channels"></div>
+  <div id="player"></div>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sanal Uydu Demo</title>
+  <script src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+  <style>
+    body { background:#111; color:#0f0; font-family:monospace; }
+    .kanal { cursor:pointer; margin:5px; padding:5px; background:#222; }
+    .kanal:hover { background:#333; }
+    .freq { margin:5px; }
+  </style>
+</head>
+<body>
+  <h1>📡 Sanal Uydu Tarama</h1>
+
+  <!-- Frekanslar -->
+  <div id="freqs">
+    <div class="freq">10802 H 28900</div>
+    <div class="freq">10899 V 29900</div>
+    <div class="freq">10932 V 29900</div>
+    <div class="freq">11000 V 31000</div>
+    <div class="freq">11013 H 29900</div>
+  </div>
+
+  <h2>Bulunan Kanallar</h2>
+  <div id="channels"></div>
+  <div id="player"></div>
+
+  <script>
+    const kanallar = [
+      { ad:"CNBC Europe UHD (4320p)", link:"https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8" },
+      { ad:"Bloomberg TV", link:"https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8" },
+      { ad:"BBC World News", link:"https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8" },
+      { ad:"Al Jazeera English", link:"https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8" },
+      { ad:"France 24", link:"https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8" },
+      { ad:"BFM TV", link:"https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8" },
+      { ad:"Rai News 24", link:"https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8" },
+      { ad:"arte HD (1080p)", link:"https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8" },
+      { ad:"RAI 1 HD", link:"https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd" },
+      { ad:"RAI 2 HD", link:"https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd" },
+      { ad:"RAI 3 HD", link:"https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8" },
+      { ad:"RTP Internacional (1080p)", link:"https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8" },
+      { ad:"TVP Polonia", link:"https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd" },
+      { ad:"TVR International", link:"https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd" },
+      { ad:"ZDF HD (720p)", link:"https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8" },
+      { ad:"ZDFneo HD (720p)", link:"https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8" },
+      { ad:"Das Erste (720p)", link:"https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8" },
+      { ad:"RTL", link:"https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8" },
+      { ad:"RTL Zwei HD (1080p)", link:"https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8" },
+      { ad:"Disney Channel (576p)", link:"https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8" },
+      { ad:"Comedy Central HD (1080p)", link:"https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8" },
+      { ad:"TV5Monde FBS HD", link:"https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8" }
+    ];
+
+    // Kanal listesini ekrana yaz
+    kanallar.forEach(k => {
+      let btn = document.createElement("div");
+      btn.className = "kanal";
+      btn.innerText = k.ad;
+      btn.onclick = () => {
+        new Clappr.Player({
+          source: k.link,
+          parentId: "#player",
+          width: "640",
+          height: "360"
+        });
+      };
+      document.getElementById("channels").appendChild(btn);
+    });
+  </script>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sanal Uydu Demo</title>
+  <style>
+    body { background:#111; color:#0f0; font-family:monospace; }
+    button { margin:10px; padding:10px; }
+  </style>
+</head>
+<body>
+  <h1>📡 Tarama Sonucu</h1>
+  <p>22 kanal bulundu - Hotbird 13.0°E</p>
+  <p>Kanalları kaydetmek ister misin?</p>
+  <button onclick="kaydet()">Evet</button>
+  <button onclick="iptal()">Hayır</button>
+
+  <div id="sonuc"></div>
+
+  <script>
+    function kaydet() {
+      document.getElementById("sonuc").innerText = 
+        "✅ Hotbird kanalları kaydedildi.";
+    }
+    function iptal() {
+      document.getElementById("sonuc").innerText = 
+        "❌ Kaydetme işlemi iptal edildi.";
+    }
+  </script>
+</body>
+</html>
