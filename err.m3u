@@ -11,6 +11,16 @@ https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="arte.fr@SD", no name
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:-1 tvg-id="RaiYoyo.it@SD",Rai Yoyo (1080p)
+http://78.130.250.2:8023/play/a04d/index.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it@SD",Rai Scuola (1080p)
+http://78.130.250.2:8023/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it@SD",Rai News 24 (1080p)
+http://78.130.250.2:8023/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it@SD",Rai Gulp (1080p)
+http://78.130.250.2:8023/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
+http://78.130.250.2:8023/play/a04o/index.m3u8
 #EXTINF:-1 tvg-id="arte.fr@SD", no name
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-id="arte.fr@SD", no name
