@@ -55,6 +55,10 @@ http://78.130.250.2:8023/play/a06h/index.m3u8
 http://78.130.250.2:8023/play/a06l/index.m3u8
 #EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
 http://78.130.250.2:8023/play/a05x/index.m3u8
+#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
+http://78.130.250.2:8023/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
+http://78.130.250.2:8023/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro@SD",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVR2.ro@SD",TVR 2
