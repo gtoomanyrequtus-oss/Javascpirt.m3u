@@ -3,94 +3,44 @@
 http://78.130.250.2:8023/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="TVPHD.pl@SD",TVP HD (1080p)
 http://78.130.250.2:8023/play/a03a/index.m3u8
-#EXTINF:-1 tvg-id="arte.fr@SD", no name
-http://78.130.250.2:8023/play/a04i/index.m3u8
-#EXTINF:-1 tvg-id="arte.fr@SD", no name
-http://78.130.250.2:8023/play/a04h/index.m3u8
-#EXTINF:-1 tvg-id="arte.fr@SD", no name
-http://78.130.250.2:8023/play/a04g/index.m3u8
-#EXTINF:-1 tvg-id="arte.fr@SD", no name
-http://78.130.250.2:8023/play/a04f/index.m3u8
-#EXTINF:-1 tvg-id="RaiYoyo.it@SD",Rai Yoyo (1080p)
-http://78.130.250.2:8023/play/a04d/index.m3u8
-#EXTINF:-1 tvg-id="RaiScuola.it@SD",Rai Scuola (1080p)
-http://78.130.250.2:8023/play/a04h/index.m3u8
-#EXTINF:-1 tvg-id="RaiNews24.it@SD",Rai News 24 (1080p)
+#EXTINF:-1 tvg-id="arte.fr@SD", no name 🔒
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
+#EXTINF:-1 tvg-id="arte.fr@SD", no name 🔒
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
+#EXTINF:-1 tvg-id="arte.fr@SD", no name🔒
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
+#EXTINF:-1 tvg-id="arte.fr@SD", no name 🔒
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
+#EXTINF:-1 tvg-id="RaiYoyo.it@SD",Rai Yoyo (1080p) 🔒
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
+#EXTINF:-1 tvg-id="RaiScuola.it@SD",Rai Scuola (1080p) 🔒
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it@SD",Rai News 24 8K
 http://78.130.250.2:8023/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="RaiGulp.it@SD",Rai Gulp (1080p)
-http://78.130.250.2:8023/play/a04m/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a04o/index.m3u8
+#EXTINF:-1 tvg-id="RaiGulp.it@SD",Rai Gulp (1080p 🔒
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
+#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p) 🔒
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
 #EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
 http://78.130.250.2:8023/play/a03o/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a03r/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a03s/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a03t/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a03u/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a05t/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a03w/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a06f/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a06g/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a06e/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a06h/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a06l/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a05x/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a05t/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a05s/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a060/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a061/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a044/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a045/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a039/index.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a03q/index.m3u8
+#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p) 🔒
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
+#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p) 🔒
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
+#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p) 🔒
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
 #EXTINF:-1 tvg-id="TVR1.ro@SD",TVR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVR2.ro@SD",TVR 2
-https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVR3.ro@SD",TVR 3
-https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVRCluj.ro@SD",TVR Cluj
-https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVRCraiova.ro@SD",TVR Craiova
-https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro@SD",TVR 2 🔒
+https://keke.ele
+#EXTINF:-1 tvg-id="TVR3.ro@SD",TVR 3 1
+http://wms.shared.streamshow.it/italia2/mp4:ita11111lia2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRCultural.ro@SD",TVR Cultural
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVRFolclor.ro@SD",TVR Folclor
+#EXTINF:-1 tvg-id="TVRFolclor.ro@SD",TVR Folclor 🔒
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVRIasi.ro@SD",TVR Iasi
-https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVRInfo.ro@SD",TVR Info
-https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVRInternational.ro@SD",TVR International
-https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVRInternational.ro@SD",TVR International
-https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-dash/tvrinternational.mpd
 #EXTINF:-1 tvg-id="TVRSport.ro@SD",TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVRTimisoara.ro@SD",TVR Timisoara
-https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="TVRTarguMures.ro@SD",TVR Targu-Mures
-https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRMoldova" tvg-name="TVR Moldova" tvg-logo="https://example.com/logos/tvrmoldova.png" group-title="General",TVR Moldova
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTK1.xk@SD",RTK 1
@@ -139,7 +89,7 @@ https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="CasaItalia53.it@SD",Casa Italia 53 (720p)
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Italia2TV.it@SD",Italia 2 TV (480p) [Geo-blocked  
+#EXTINF:-1 tvg-id="Italia2TV.it@SD",Italia 2 TV (480p) [Geo-blocked  🔒
 http://wms.shared.streamshow.it/italia2/mp4:ita11111lia2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale7.it@SD",Canale 7 (480p)
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
@@ -183,8 +133,6 @@ https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr@SD",TRT Arabi HD
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@English",Al Jazeera English
-https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@SD",Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 tvg-id="VisualRadio.it@SD",Visual Radio (576p) [Not 24/7]
@@ -870,3 +818,7 @@ https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
 #EXTINF:-1 tvg-id="Rai1.it@SD",Rai 12 🔒
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
+#EXTINF:-1 tvg-id="Rai1.it@SD",Rai 12
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
+#EXTINF:-1 tvg-id="Rai1.it@SD", Ezgi TV 🔒
+https://viamotionhsi.netplus.ch/live/eds/cartoonnetworkch/browser-HLS8/cartoonnetworkch.m3u8
