@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVPInfo.pl@SD",TVP Info (1080p)
-http://78.130.250.2:8023/play/a03b/index.m3u8
-#EXTINF:-1 tvg-id="TVPHD.pl@SD",TVP HD (1080p)
-http://78.130.250.2:8023/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="TVPInfo.pl@SD",TVP Info (1080p) 🔒
+http://78.130.250.2:8023/playuı/a03b/index.m3u8
+#EXTINF:-1 tvg-id="TVPHD.pl@SD",TVP HD (1080p)🔒
+http://78.130.250.2:8023/play/a03ajd/index.m3u8
 #EXTINF:-1 tvg-id="arte.fr@SD", no name 🔒
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
 #EXTINF:-1 tvg-id="arte.fr@SD", no name 🔒
@@ -21,8 +21,8 @@ http://78.130.250.2:8023/play/a04l/index.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
 #EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p) 🔒
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
-#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p)
-http://78.130.250.2:8023/play/a03o/index.m3u8
+#EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p) 🔒
+http://78.130.250.2:8023/play/yea03o/index.m3u8
 #EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p) 🔒
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
 #EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p) 🔒
