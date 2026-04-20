@@ -7,10 +7,8 @@ http://78.130.250.2:8023/play/a03ajd/index.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
 #EXTINF:-1 tvg-id="arte.fr@SD", no name 🔒
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
-#EXTINF:-1 tvg-id="arte.fr@SD", no name🔒
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
-#EXTINF:-1 tvg-id="arte.fr@SD", no name 🔒
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
+#EXTINF:-1 tvg-id="arte.fr@SD", no name
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #EXTINF:-1 tvg-id="RaiYoyo.it@SD",Rai Yoyo (1080p) 🔒
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
 #EXTINF:-1 tvg-id="RaiScuola.it@SD",Rai Scuola (1080p) 🔒
@@ -29,8 +27,8 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
 #EXTINF:-1 tvg-id="Rai5.it@SD",Rai 5 (1080p) 🔒
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
-#EXTINF:-1 tvg-id="TVR1.ro@SD",TVR 1
-https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro@SD",TVR 1 🔒
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1kfkf.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="TVR2.ro@SD",TVR 2 🔒
 https://keke.ele
 #EXTINF:-1 tvg-id="TVR3.ro@SD",TVR 3 1
