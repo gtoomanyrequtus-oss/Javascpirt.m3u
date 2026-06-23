@@ -5,8 +5,10 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 http://89.187.191.41/ATV-HD-TR/video.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr@SD",Kanal D (1080p)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-id="KanalDDrama.tr@SD",Star Tv (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr@SD",Sıla Apartmanı TV
+https://www.youtube.com/watch?v=-ezuNUCuo5U
+#EXTINF:-1 tvg-id="KanalD.tr@SD",Celine Dept TV
+https://www.otur.com
 #EXTINF:-1 tvg-id="ArasTV.tr@SD",Show TV (576p) [Not 24/7]
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BeyazTV.tr@SD",Beyaz TV (1080p)
