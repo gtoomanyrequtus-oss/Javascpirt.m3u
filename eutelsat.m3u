@@ -53,3 +53,5 @@ http://91.146.94.234:10001/play/a03m
 https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
 #EXTINF:-1 tvg-id="Rete8.it@SD",Rete 49
 http://91.146.94.234:10001/play/a03n
+#EXTINF:-1 tvg-id="Rete8.it@SD",Rete 43
+http://91.146.94.234:10001/play/a03v
