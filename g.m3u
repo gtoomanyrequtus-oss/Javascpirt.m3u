@@ -4,6 +4,10 @@ http://91.146.94.234:10001/play/a03d
 #EXTINF:-1 tvg-id="Rai2.it@SD",Rai 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://91.146.94.234:10001/play/a03r
+#EXTINF:-1 tvg-id="SenatoTV.it@SD",Senato TV (1080p)
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="CameradeiDeputati.it@SD",Camera dei Deputati (via RR) (240p)
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTM3U x-tvg-url="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" url-tvg="http://epg-guide.com/wltv.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/it.xml.gz" billed-msg="☕Supportami:https://ko-fi.com/gtvit/tip" max-conn="6"
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://www.raiplay.it/dl/img/2016/09/1473661951374Logo-Rai1.png" tvg-chno="1" channel-number="1" group-title="Rai",Rai 1
 #KODIPROP:inputstream.adaptive.manifest_type=hls
