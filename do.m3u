@@ -83,8 +83,8 @@ https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8
 https://www.youtube.com/watch?v=zI3D4fW2hXY
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B40rjP3/szc1.png",SÖZCÜ TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr5nv.m3u8
-#EXTINF:-1 tvg-id="CNBCEurope.uk@HD",CNBC Europe UHD (4320p)
-https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+#EXTINF:-1 tvg-id="CNBCEurope.uk@HD",Youtube tv HD (4320p)
+https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us@Europe",Bloomberg TV 
 https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe",BBC World News
