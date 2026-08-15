@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 group-title="Estero",Rai 1 Europa
+https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
+#EXTINF:-1 tvg-name="Rai 1" tvg-id="" tvg-logo="" group-title="Estero", Rai 1
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Estero",Rai 2 Europa
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:-1 group-title="Estero",Rai 3
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Estero",Rai 3 Europa
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1 tvg-id="Boing.it" group-title="Estero",Boing 30fps
+https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
+#EXTINF:-1 group-title="Estero",Rai Scuola Europa
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+#EXTINF:-1 group-title="Estero",Rai Storia Europa
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+#EXTINF:-1 tvg-name="TGCOM24" tvg-id="" tvg-logo="" group-title="Estero", TGCOM24
+https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
+#EXTINF:-1 group-title="Estero",RAI News 24 Europa HD
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
+#EXTINF:-1 tvg-name="RaiItalia.it" tvg-id="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="Estero", Rai Italia Australia
+https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
+#EXTINF:-1 tvg-name="RaiItalia.it" tvg-id="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="Estero", Rai Italia Europa
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+#EXTINF:-1 tvg-name="RaiItalia.it" tvg-id="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1814/CH_LOGO/160/160/0/0/668028540729.png" group-title="Estero", Rai Italia America
+https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+#EXTINF:-1 group-title="Estero" tvg-id="Mediaset.Italia.-.Australia.e.Asia.it",Mediaset Italia - Australia e Asia
+https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
+#EXTINF:-1 group-title="Estero" tvg-id="Mediaset.Italia.-.Europa.e.Africa.it",Mediaset Italia - Europa e Africa
+https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
+#EXTINF:-1 group-title="Estero" tvg-id="Mediaset.Italia.-.America.it",Mediaset Italia - America
+https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
+#EXTINF:-1 group-title="Estero",Rete Italia
+https://d3k8wzt41aflvx.cloudfront.net/RETEITALIATV/Live.m3u8
