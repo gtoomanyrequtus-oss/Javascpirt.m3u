@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rai1.it@SD",Rai 1 HD
-http://91.146.94.234:10001/play/a03dulan
+http://138.59.177.78:9999/play/a0bf/index.m3u8
 #EXTINF:-1 tvg-id="Canal9.ch@SD",Canal 9 en Français (1080p)
-https://livehd.vedge.infomaniak.com/livecmkerqmkfmfafast/livehd/master.m3u8
+http://138.59.177.78:9999/play/a0ef/index.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-id="7RadioVisione.it@HD",7 RadioVisione (720p)
-https://stream10.xdevel.com/video1s976543-193daaaaaaaaaaaaaa2/stream/playlist.m3u8
+http://138.59.177.78:9999/play/a0ff/index.m3u8
 #EXTINF:-1 tvg-id="7YOUME.it@HD",7 YOU & ME (da720p)
 https://stream10.xdevel.com/video0s977798-22dsaaaaaaaaasdddddddddddddddddddddd39/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="12TVParma.it@SD",12 TV Parma (540p) [Not 24/7]
