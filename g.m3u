@@ -428,21 +428,21 @@ https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playl
 #EXTINF:-1 tvg-id="MinformoTV.it@SD",Minformo TV (720p)
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="NTN.it@SD",NTN (720p)
-https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+http://88.212.15.17/live/esp2_hun/index.m3u8
 #EXTINF:-1 tvg-id="Odeon24.it@SD",Odeon 24 (288p)
-https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
+http://102.129.186.182:81/la5/index.m3u8
 #EXTINF:-1 tvg-id="OndaNovaraTV.it@SD",Onda Novara TV (720p) [Not 24/7]
-https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
+http://102.129.186.182:81/rai5/index.m3u8
 #EXTINF:-1 tvg-id="OndaTV.it@SD",Onda TV (568p)
-https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8
+http://102.129.186.182:81/rai2/index.m3u8
 #EXTINF:-1 tvg-id="OrlerTV.it@SD",Orler TV (420p) [Not 24/7]
-https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+http://102.129.186.182:81/rai1/index.m3u8
 #EXTINF:-1 tvg-id="OttoChannel.it@SD",Otto Channel (480p)
-https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
+http://102.129.186.182:81/rai4/index.m3u8
 #EXTINF:-1 tvg-id="PaciContemporaryChannel.it@SD",Paci Contemporary Channel (720p)
-https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
+http://102.129.186.182:81/raiyoyo/index.m3u8
 #EXTINF:-1 tvg-id="PadrePioTV.it@SD",Padre Pio TV (1080p)
-https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+https:)
 #EXTINF:-1 tvg-id="ParadiseTV.it@SD",Paradise TV [Geo-blocked]
 https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
 #EXTINF:-1 tvg-id="ParolediVita.it@SD",Parole di Vita (1080p)
