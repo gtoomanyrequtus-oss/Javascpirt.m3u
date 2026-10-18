@@ -7,9 +7,12 @@ http://138.59.177.78:9999/play/a0ef/index.m3u8
 #EXTINF:-1 tvg-id="7RadioVisione.it@HD",7 RadioVisione (720p)
 http://138.59.177.78:9999/play/a0ff/index.m3u8
 #EXTINF:-1 tvg-id="7YOUME.it@HD",7 YOU & ME (da720p)
-http://138.59.177.78:9999/play/a0kf/index.m3u8
+http://team-tv.co:81/rai5/index.m3u8
 #EXTINF:-1 tvg-id="7RadioVisione.it@HD",7 RadioVisione (720p)
-http://138.59.177.78:9999/play/a0lf/index.m3u8
+http://team-tv.co:81/rai4/index.m3u8
+#EXTINF:-1 tvg-id="RaiMovie.it@HD",Rai Movie HD (1080p)
+http://team-tv.co:81/raimovie/index.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-id="A7TV.ro@SD",A7TV (1080p)
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
